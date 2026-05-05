@@ -1,4 +1,0 @@
----Basic Plugin type providing both a config function and a pack specification
----@class (exact) Plugin
----@field spec vim.pack.Spec | string
----@field config fun()?

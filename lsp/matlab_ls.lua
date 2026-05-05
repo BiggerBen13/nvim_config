@@ -1,0 +1,7 @@
+return {
+    settings = {
+        MATLAB = {
+            installPath = '/Applications/MATLAB_R2026a.app'
+        }
+    }
+}
